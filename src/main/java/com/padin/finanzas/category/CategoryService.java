@@ -1,4 +1,4 @@
-package com.padin.finanzas;
+package com.padin.finanzas.category;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
