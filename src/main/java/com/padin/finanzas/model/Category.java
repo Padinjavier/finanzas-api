@@ -1,4 +1,4 @@
-package com.padin.finanzas.category;
+package com.padin.finanzas.model;
 
 import jakarta.persistence.*;
 import lombok.*;

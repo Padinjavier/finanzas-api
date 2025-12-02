@@ -1,7 +1,10 @@
-package com.padin.finanzas.category;
+package com.padin.finanzas.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+
+import com.padin.finanzas.model.Category;
+import com.padin.finanzas.service.CategoryService;
 
 import java.util.List;
 

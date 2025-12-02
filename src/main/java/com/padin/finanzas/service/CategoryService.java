@@ -1,7 +1,10 @@
-package com.padin.finanzas.category;
+package com.padin.finanzas.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+
+import com.padin.finanzas.model.Category;
+import com.padin.finanzas.repository.CategoryRepository;
 
 import java.util.List;
 
